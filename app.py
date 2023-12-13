@@ -2,6 +2,7 @@ import os
 from flask import Flask, jsonify
 from flask_smorest import Api
 
+
 from db import db
 import models
 
